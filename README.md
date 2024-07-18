@@ -1,15 +1,6 @@
 # Arbitrum's Orbit Roll Up Chain
-name: WolfWorldRunChain^_^<3
+chain name: WolfWorldRunChain^_^<3
 chain id: 42042042069
-
-# WolfWorldRun Token address: 
-0xb83293bcb10f0c8ce1171fabb398277cd4ae1019
-
-# EtherScan URL: 
-https://sepolia.etherscan.io/token/0xb83293bcb10f0c8ce1171fabb398277cd4ae1019
-
-# Deploy Locally:
-https://orbit.arbitrum.io/deployment/step/deploy-local
 
 -----------------------------------------------------------------------------------
 
