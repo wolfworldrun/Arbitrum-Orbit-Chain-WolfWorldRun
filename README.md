@@ -6,7 +6,7 @@ chain id: 42042042069
 0xb83293bcb10f0c8ce1171fabb398277cd4ae1019
 
 # EtherScan URL: 
-https://sepolia.etherscan.io/tx/0x37b9d90a3292ad1d6a69d6a135474499d48022f4d011916701e7a612a4710a88 
+https://sepolia.etherscan.io/token/0xb83293bcb10f0c8ce1171fabb398277cd4ae1019
 
 # Deploy Locally:
 https://orbit.arbitrum.io/deployment/step/deploy-local
