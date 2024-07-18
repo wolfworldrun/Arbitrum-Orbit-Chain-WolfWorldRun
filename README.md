@@ -1,7 +1,6 @@
 # Arbitrum's Orbit Roll Up Chain
 chain name: WolfWorldRunChain^_^<3
 chain id: 42042042069
-
 -----------------------------------------------------------------------------------
 
 Here I am launching my first chain with Arbitrum's Orbit rollup. I used https://github.com/OffchainLabs/orbit-setup-script to deploy WolfWorldRunChain locally within a docker container. The instructions were simple to follow. Preceeding my local chain deployment I deployed my chain's base contract to Arbitrum Sepolia using the QuickStart (https://docs.arbitrum.io/launch-orbit-chain/orbit-quickstart). 
