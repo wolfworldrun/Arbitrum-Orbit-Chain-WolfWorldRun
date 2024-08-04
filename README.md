@@ -3,7 +3,7 @@ chain name: WolfWorldRunChain^_^<3
 chain id: 42042042069
 -----------------------------------------------------------------------------------
 
-Here I am launching my first chain with Arbitrum's Orbit rollup. I used https://github.com/OffchainLabs/orbit-setup-script to deploy WolfWorldRunChain locally within a docker container. The instructions were simple to follow. Preceeding my local chain deployment I deployed my chain's base contract to Arbitrum Sepolia using the QuickStart (https://docs.arbitrum.io/launch-orbit-chain/orbit-quickstart). 
+Here I am launching my first L3 chain with Arbitrum's Orbit rollup. I used https://github.com/OffchainLabs/orbit-setup-script to deploy WolfWorldRunChain^_^<3 locally within a docker container. The instructions were simple to follow. Preceeding my local chain deployment I deployed my chain's base contract to an L2 (Arbitrum Sepolia) using the QuickStart (https://docs.arbitrum.io/launch-orbit-chain/orbit-quickstart). 
 
 # What happened?
 
@@ -14,7 +14,7 @@ Here I am launching my first chain with Arbitrum's Orbit rollup. I used https://
 - Ran provided hardhat script with private key of owner account to deploys my chains contracts. This handles the following: 
   - Fund the batch-poster and validator (staker) accounts on your underlying L2 chain.
   - Deposit ETH into your account on the chain using your chain's newly deployed bridge.
-  - Deploy your Token Bridge contracts on both L2 and local Orbit chains.
+  - Deploy your Token Bridge contracts on both Layers and local Orbit chains.
   - Configure parameters on the chain.
 
 
