@@ -1,4 +1,4 @@
-# Arbitrum's Layer 3 blockchain using Orbit Rollup
+# Arbitrum's Layer 3 Blockchain Using Orbit Rollup
 
 **Chain Name:** [redacted]  
 **Chain ID:** [redacted]
